@@ -1,29 +1,29 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a></p>
 
-# Authontication-API-Laravel Project
+# <p align="right"><a href="#" target="_blank">Authontication-API-Laravel Project</a></p>
 <p align="right"><a href="https://www.linkedin.com/in/jaychandnirmalkar/" target="_blank"><img src="public\lnkdn.svg" width="200"></a></p>
 
 
 
 
 
-###  About The Project
+##  About The Project
 
-<p align="left"><a href="#" target="_blank">Custom Authontication-API-Laravel Project:</a></p>
+### <p align="left"><a href="#" target="_blank">Custom Authontication-API-Laravel Project:</a></p>
 
 Authentication-API-Laravel ( without any package use) : Register user | Login (phone/email) | Logged user information | Logout | Password change | Password reset with email (send password reset link ) 
 
-###  API Testing
-#### *<p align="center">Register user<a href="#" target="_blank"></a></p>
+##  API Testing
+#### <p align="center">Register user<a href="#" target="_blank"></a></p>
 <p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
-####  *<p align="center">*Login user<a href="#" target="_blank"></a></p>
+#### <p align="center">Login user<a href="#" target="_blank"></a></p>
 <p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
-#### *<p align="center">Get user Data <a href="#" target="_blank"></a></p>
+#### <p align="center">Get user Data <a href="#" target="_blank"></a></p>
 <p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
-#### *<p align="center">Get user Data <a href="#" target="_blank"></a></p>
+#### <p align="center">Get user Data <a href="#" target="_blank"></a></p>
 <p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
 
