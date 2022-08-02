@@ -32,6 +32,9 @@ Authentication-API-Laravel ( without any package use) : Register user | Login (p
 #### <p align="center">Reset Password<a href="#" target="_blank"></a></p>
 <p align="center"><img  src="public\api-testing-img\reset-password.png" width="700"></p>
 
+#### <p align="center">Logout<a href="#" target="_blank"></a></p>
+<p align="center"><img  src="public\api-testing-img\logout.png" width="700"></p>
+
 
 
 
