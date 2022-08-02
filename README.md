@@ -2,7 +2,7 @@
 <p style="font-weight:bold;color:cornflowerblue" align="center">Authontication-API-Laravel Project</p>
 <hr>
 <p align="center">
-<img alt="" src="public\lnkdn.svg"/>
+<img alt="" src="public\lnkdn.svg" width="100"/>
 <a href="https://www.linkedin.com/in/jaychandnirmalkar/">My LinkdIn profile</a>
 </p>
 
@@ -14,7 +14,7 @@ Authentication-API-Laravel ( without any package use) : Register user | Login (p
 
 ## API Testing
 <p align="center">Register user<a href="#" target="_blank"></a></p>
-<img align="center" src="public\api-testing-img\reg.png" width="700">
+<p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
 
 
