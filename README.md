@@ -18,13 +18,19 @@ Authentication-API-Laravel ( without any package use) : Register user | Login (p
 <p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
 
 #### <p align="center">Login user<a href="#" target="_blank"></a></p>
-<p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
+<p align="center"><img  src="public\api-testing-img\login.png" width="700"></p>
 
-#### <p align="center">Get user Data <a href="#" target="_blank"></a></p>
-<p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
+#### <p align="center">Logged user Data <a href="#" target="_blank"></a></p>
+<p align="center"><img  src="public\api-testing-img\user-data.png" width="700"></p>
 
-#### <p align="center">Get user Data <a href="#" target="_blank"></a></p>
-<p align="center"><img  src="public\api-testing-img\reg.png" width="700"></p>
+#### <p align="center">Change Password<a href="#" target="_blank"></a></p>
+<p align="center"><img  src="public\api-testing-img\Change Password.png" width="700"></p>
+
+#### <p align="center">Send Password Reset Link to Email<a href="#" target="_blank"></a></p>
+<p align="center"><img  src="public\api-testing-img\reset-link-send.png" width="700"></p>
+
+#### <p align="center">Reset Password<a href="#" target="_blank"></a></p>
+<p align="center"><img  src="public\api-testing-img\reset-password.png" width="700"></p>
 
 
 
