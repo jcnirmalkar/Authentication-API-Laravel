@@ -2,7 +2,7 @@
 <p style="font-weight:bold;color:cornflowerblue" align="center">Authontication-API-Laravel Project</p>
 <hr>
 <p align="center">
-<img alt="" src="public\lnkdn.svg" width="100"/>
+<img alt="" src="public\lnkdn.svg" width="28"/>
 <a href="https://www.linkedin.com/in/jaychandnirmalkar/">My LinkdIn profile</a>
 </p>
 
