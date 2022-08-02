@@ -5,7 +5,8 @@
 
 
 ## About The Project
- [ Custom Authontication-API-Laravel Project:]
+<p align="left"><a href="#" target="_blank">Custom Authontication-API-Laravel Project:</a></p>
+
 Authentication-API-Laravel ( without any package use) : Register user | Login (phone/email) | Logged user information | Logout | Password change | Password reset with email (send password reset link ) 
 
 ## API Testing
