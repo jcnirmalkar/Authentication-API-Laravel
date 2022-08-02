@@ -4,7 +4,11 @@
 <p align="right"><a href="https://www.linkedin.com/in/jaychandnirmalkar/" target="_blank"><img src="public\lnkdn.svg" width="200"></a></p>
 
 
+# About The Project
 ## About The Project
+### About The Project
+#### About The Project
+* About The Project
 <p align="left"><a href="#" target="_blank">Custom Authontication-API-Laravel Project:</a></p>
 
 Authentication-API-Laravel ( without any package use) : Register user | Login (phone/email) | Logged user information | Logout | Password change | Password reset with email (send password reset link ) 
