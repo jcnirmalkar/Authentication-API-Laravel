@@ -1,10 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a></p>
 <p style="font-weight:bold;color:cornflowerblue" align="center">Authontication-API-Laravel Project</p>
 <hr>
-<p align="center">
 <img alt="" src="public\lnkdn.svg" width="28"/>
 <a href="https://www.linkedin.com/in/jaychandnirmalkar/">My LinkdIn profile</a>
-</p>
+
 
 
 
