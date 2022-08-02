@@ -122,11 +122,18 @@ class UserController extends Controller
  /********************logged user data show************************/   
     public function loggedUserData(){
         try {
-            $loggeduser = auth()->user()->name;
+            $userName = auth()->user()->name;
+            $userEmail = auth()->user()->email;
+            $userPhone = auth()->user()->phone;
             return response([
-                'user'=>$loggeduser,
+                'status'=>'success',
                 'message' => 'Logged User Data',
-                'status'=>'success'
+                'user data'=>[
+                    'name' =>$userName,
+                    'email' =>$userEmail,
+                    'phone '=>$userPhone,
+                ]
+             
             ], 200);
            
         } catch (\Throwable $th) {

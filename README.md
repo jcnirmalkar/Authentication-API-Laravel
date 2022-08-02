@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="100"></a></p>
 <p align="center">Authontication-API-Laravel Project</p>
 <hr>
 <p align="center">
@@ -12,6 +12,9 @@
 ## About The Project
 <h5 style="font-weight:bold;color:cornflowerblue ">Custom Authontication-API-Laravel Project :<h5>
 Authentication-API-Laravel ( without any package use) : Register user | Login (phone/email) | Logged user information | Logout | Password change | Password reset with email (send password reset link ) 
+
+##API Testing
+<p align="center">Register user<a href="#" target="_blank"><img src="public\api-testing-img\reg.png" width="400"></a></p>
 
 
 
