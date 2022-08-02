@@ -8,7 +8,7 @@
 
 
 ## About The Project
-<p> style="font-weight:bold;color:cornflowerblue ">Custom Authontication-API-Laravel Project :</p>
+<p style="font-weight:bold;color:cornflowerblue "> Custom Authontication-API-Laravel Project :</p>
 Authentication-API-Laravel ( without any package use) : Register user | Login (phone/email) | Logged user information | Logout | Password change | Password reset with email (send password reset link ) 
 
 ## API Testing
