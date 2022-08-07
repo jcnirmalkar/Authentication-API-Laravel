@@ -42,3 +42,7 @@ Authentication-API-Laravel ( without any package use) : Register user | Login (p
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+```
+$ npm install copy-text-to-clipboard
+```
